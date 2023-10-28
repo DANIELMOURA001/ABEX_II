@@ -12,7 +12,7 @@ Bruno Guilherme de Moura <br>Daniel Henrique de Moura <br>Edson Soares <br> Vito
   <table>
     <tr> 
       <td style="vertical-align: top;">
-        <img src="https://github.com/VitorRodi/Abex/blob/9830e77d5007d2fb9a6d8998fd935de992367480/BRASAO_UNO_AZUL.png" width="70" height="85" />
+        <img src="https://github.com/DANIELMOURA001/ABEX_II/blob/main/LOGOS_UNO_CHAPEC%C3%93/LOGO_UNO_CHAPECO_VERTICAL_AZUL.png" width="70" height="85" />
       </td>
       <td>
         <h2>UNIVERSIDADE COMUNITÁRIA REGIONAL DE CHAPECÓ - UNOCHAPECÓ</h2>
